@@ -1,0 +1,9 @@
+name: Netwerk
+version: '${project.version}'
+description: Adds cell phones and carriers to Minecraft
+author: JPlexer
+main: me.funnyna.netwerk.Netwerk
+api-version: '1.18'
+commands:
+  netwerk:
+    description: netwerk stuff
